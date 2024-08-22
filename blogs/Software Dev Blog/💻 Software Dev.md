@@ -1,0 +1,2 @@
+
+`Software development is at the core of every tech innovation. Here, you can share your knowledge on frameworks, programming languages, testing, and software architecture. Let’s build high-quality, efficient software and solve complex problems together.`
